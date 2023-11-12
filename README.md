@@ -1,5 +1,5 @@
 # ProjetosTAD
-Neste repositório apresento alguns projetos desenvolvidos em TAD.
+Projetos desenvolvidos em TAD.
 
 Todos os códigos são compilados e executados por meio da ferramenta GNU Make:
 <br>
